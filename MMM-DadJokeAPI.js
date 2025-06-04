@@ -1,4 +1,4 @@
-Module.register("MMM-JokeAPI", {
+Module.register("MMM-DadJokeAPI", {
     defaults: {
         fetchInterval: 10 * 1000
     }, 
