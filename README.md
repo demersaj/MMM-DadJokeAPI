@@ -1,4 +1,4 @@
-# MagicMirror² JokeAPI module
+# MagicMirror² DadJokeAPI module
 This is a module for `MagicMirror²`; the purpose of the module is to show you jokes from i can haz dad joke .
 
 ## Installation
