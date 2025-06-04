@@ -6,7 +6,7 @@ This is a module for `MagicMirror²`; the purpose of the module is to show you j
 2.  Edit your configuration file under `config/config.js` with the following configuration.
 ```
 {
-    module: 'MMM-JokeAPI',
+    module: 'MMM-DadJokeAPI',
     position: 'middle_center',
     config: {
         fetchInterval: 600000
