@@ -14,11 +14,6 @@ This is a module for `MagicMirror²`; the purpose of the module is to show you j
 }
 ```
 
-### Preview
-![Screenshot](screenshot.png)
-
-
-
 ## Configuration options
 
 | Option                 | Description
